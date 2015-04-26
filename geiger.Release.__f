@@ -1,0 +1,4 @@
+[Compiler]
+Extra=
+[Linker]
+Extra=float.pic18.lib eeprom.pic18.lib

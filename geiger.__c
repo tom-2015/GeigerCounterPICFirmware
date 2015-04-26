@@ -1,0 +1,38 @@
+[Settings]
+Active Directory=C:\Users\Tom\Documents\pic\GeigerCounterPICFirmware\
+Target=PIC18F2550
+Active Compiler=BoostC
+Active Config=Release
+ClockRate=48000000
+Config=0
+Last Ext=h
+Type=0
+Warnings=1
+Model=0
+Last ExtIdx=1
+Last Dir=D:\program files\SourceBoost\include\
+[Files]
+Count=17
+File0=config.h
+File1=geiger.c
+File2=rtc.c
+File3=rtc.h
+File4=sp.c
+File5=sp.h
+File6=usb.c
+File7=usb.h
+File8=usb\pic_usb.c
+File9=usb\pic_usb.h
+File10=usb\pic_usb_buffer_mgt.c
+File11=usb\pic_usb_buffer_mgt.h
+File12=usb\pic_utils.h
+File13=usb\usb_config_hid.c
+File14=usb\usb_config_hid.h
+File15=usb\usb_hid_class.c
+File16=usb\usb_hid_class.h
+[Tools]
+BoostDir=D:\Program Files\SourceBoost\
+Programmer=
+PrefixWithBuildThreadNum=0
+[Debugger]
+DebugFromMain=1
